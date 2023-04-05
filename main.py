@@ -82,27 +82,27 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Hello {} !*
-😈 HI'm Zaid, An anime - Themed advanced telegram Group management with lots of features.
+😈 HI'm BOT, An anime - Themed advanced telegram Group management with lots of features.
 ───────────────────────
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
 ───────────────────────
 ✪ Bot For help You Manage & Protect Your Groups.
-[➼](https://telegra.ph/file/be24bbabbe0ec30dff489.jpg) So What U Waiting For Add Me To Ur chat
+[➼](https://graph.org/file/2df2d978bc752bc6b3c9b.jpg) So What U Waiting For Add Me To Ur chat
 ───────────────────────
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ᴇʟꜱᴇ ᴜ ɢᴀʏ🔥", url="t.me/Zaid2_Robot?startgroup=true"),
+            text="ᴀᴅᴅ ᴍᴇ ᴇʟꜱᴇ ᴜ ɢᴀʏ🔥", url="t.me/all_managment_bot?startgroup=true"),
     ],
      [
         InlineKeyboardButton(text="ʙᴀꜱɪᴄ ɢᴜɪᴅᴇ ", callback_data="emiko_"),
      ],
      [  
-        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ ⚒️", url="https://t.me/Superior_Support"),
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ 📢", url="https://t.me/Superior_Bots"),
+        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ ⚒️", url="https://t.me/Kingbotofficialchat"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ 📢", url="https://t.me/about_kartikrajofficial"),
     ], 
 
     [
@@ -114,10 +114,10 @@ buttons = [
 HELP_STRINGS = """
 Click on the button bellow to get description about specifics command."""
 
-EMI_IMG = "https://telegra.ph/file/be24bbabbe0ec30dff489.jpg"
+EMI_IMG = "https://graph.org/file/2df2d978bc752bc6b3c9b.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @Timesisnotwaiting \
+ You can support the project by contacting @Kartikrajofficial \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
